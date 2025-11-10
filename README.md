@@ -72,7 +72,7 @@ Taskly/
 ## 👤 Author
 KALPESH K. SUTHAR
 
-⭐ If you like Taskly, give it a star on GitHub and showcase your support!
+If you like Taskly, give it a star ⭐ on GitHub and showcase your support!
 
 ---
 
