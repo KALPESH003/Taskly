@@ -68,30 +68,12 @@ Taskly/
 2. Navigate into the project folder
 3. Open index.html in your browser — no setup required.
 
-📸 Preview
-
-🧑‍💻 Author
-
+👤 Author
 Kalpesh K. Suthar
-🎓 MSc IT | Frontend Developer | Cybersecurity Enthusiast
-🔗 GitHub
- • LinkedIn
-
-🪪 License
-
-This project is licensed under the MIT License — open for educational and portfolio use.
 
 ⭐ If you like Taskly, give it a star on GitHub and showcase your support!
 
 ---
 
-## 🏷️ **Recommended GitHub Tags**
-
-
+## Tags
 task-manager, productivity, html-css-js, webapp, ui-design, localstorage, javascript-project, to-do-list, mscit, portfolio
-
-
----
-
-Would you like me to also make a **350-character optimized GitHub summary** (for the “About” section under your repo name)?  
-It’ll be short, keyword-optimized, and recruiter-friendly (great for visibility).
