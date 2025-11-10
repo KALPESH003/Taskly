@@ -68,8 +68,9 @@ Taskly/
 2. Navigate into the project folder
 3. Open index.html in your browser — no setup required.
 
-👤 Author
-Kalpesh K. Suthar
+---
+## 👤 Author
+KALPESH K. SUTHAR
 
 ⭐ If you like Taskly, give it a star on GitHub and showcase your support!
 
